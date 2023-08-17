@@ -1,1 +1,1 @@
-# D
+ConsoleWrite.Line("Hello World")
